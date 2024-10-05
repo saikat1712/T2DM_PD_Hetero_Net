@@ -1,0 +1,22 @@
+title	geo_accession	characteristics_ch1.1	tissue:ch1
+ND-obese1	GSM1585577	subject status: obese non-diabetic	liver
+ND-obese2	GSM1585578	subject status: obese non-diabetic	liver
+ND-obese3	GSM1585579	subject status: obese non-diabetic	liver
+ND-obese4	GSM1585580	subject status: obese non-diabetic	liver
+ND-obese5	GSM1585581	subject status: obese non-diabetic	liver
+ND-obese6	GSM1585582	subject status: obese non-diabetic	liver
+ND-obese7	GSM1585583	subject status: obese non-diabetic	liver
+ND-obese8	GSM1585584	subject status: obese non-diabetic	liver
+T2D-obese1	GSM1585585	subject status: obese type 2 diabetic patient	liver
+T2D-obese2	GSM1585586	subject status: obese type 2 diabetic patient	liver
+T2D-obese3	GSM1585587	subject status: obese type 2 diabetic patient	liver
+T2D-obese4	GSM1585588	subject status: obese type 2 diabetic patient	liver
+T2D-obese5	GSM1585589	subject status: obese type 2 diabetic patient	liver
+T2D-obese6	GSM1585590	subject status: obese type 2 diabetic patient	liver
+T2D-obese7	GSM1585591	subject status: obese type 2 diabetic patient	liver
+non-obese1	GSM1585592	subject status: non-obese metabolically healthy	liver
+non-obese2	GSM1585593	subject status: non-obese metabolically healthy	liver
+non-obese3	GSM1585594	subject status: non-obese metabolically healthy	liver
+non-obese4	GSM1585595	subject status: non-obese metabolically healthy	liver
+non-obese5	GSM1585596	subject status: non-obese metabolically healthy	liver
+non-obese6	GSM1585597	subject status: non-obese metabolically healthy	liver

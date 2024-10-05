@@ -1,0 +1,10 @@
+central_proteins_SNCAIP_cluster21.txt
+central_proteins_MAPT_cluster12.txt
+central_proteins_PRNP_cluster12.txt
+central_proteins_SNCA_cluster2640.txt
+central_proteins_IAPP_cluster2080.txt
+central_proteins_APPBP2_cluster280.txt
+central_proteins_NAE1_cluster30.txt
+central_proteins_SQSTM1_cluster458.txt
+central_proteins_TARDBP_cluster15.txt
+central_proteins_SERPINA1_cluster1140.txt

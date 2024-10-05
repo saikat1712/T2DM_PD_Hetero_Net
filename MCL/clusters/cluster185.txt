@@ -1,0 +1,4 @@
+LHCGR
+CGA
+CGB
+FSHB

@@ -1,0 +1,75 @@
+---
+title: "path_test1"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(reticulate)
+use_python("C:\\Users\\ASUS\\AppData\\Local\\r-miniconda\\envs\\r-reticulate\\python.exe")
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{python}
+from itertools import combinations
+import pandas as pd
+df=pd.read_csv("D:\\workflow_R\\wgcna_blue_mod_pathway\\path_gene_new.csv",nrows=5)
+path_gene=df.set_index("pathway_name").T.to_dict('list')
+list1=list(df["pathway_name"])
+
+def path_val(x,y):
+  val1=str(path_gene[x])[1:-1].strip("'")
+  val2=str(path_gene[y])[1:-1].strip("'")
+          
+  return val1,val2
+  
+  
+perm=combinations(list1,2)
+
+temp=[]
+list_id=[]
+all=list(perm)
+#for j in range(len(all)):
+def path_generator(all,j):
+  a1,a2=path_val(all[j][0],all[j][1])
+  return a1,a2
+  
+m1,m2=path_generator(all,2)
+
+
+
+#print(m1,m2)
+
+```
+
+## Semantic similarity
+
+You can also embed plots, for example:
+
+```{r }
+library(GOSemSim)
+hsGO2 <- godata('org.Hs.eg.db', keytype = "SYMBOL", ont="MF", computeIC=FALSE)
+
+
+#for (i in 1:5) {
+#r_to_py(i)  
+#py_run_string("path_generator(all,i)")
+#s1<-strsplit(py$a1,'\"')
+#s1<-s1[[1]][2]
+#s2<-strsplit(py$a2,'\"')
+#s2<-c(s2[[1]][2],s2[[1]][4],s2[[1]][6],s2[[1]][8])
+#score_val=clusterSim(s1,s2,semData = hsGO2,measure = "Wang",combine = "BMA")
+#print(score_val)
+#}
+#for (i in 1:4){
+  
+#}
+
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.

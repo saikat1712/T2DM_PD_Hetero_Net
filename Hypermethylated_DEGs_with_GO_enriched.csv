@@ -1,0 +1,123 @@
+Hypermethylated_DEGs,Unnamed: 0,GO_term,ONTOLOGY,TERM,N,DE,P.DE,FDR
+IFITM1,1,GO:0060337,BP,type I interferon signaling pathway,86,2,0.0003114251306399,1
+IFITM1,2,GO:0071357,BP,cellular response to type I interferon,87,2,0.0003153968459399,1
+IFITM1,3,GO:0034340,BP,response to type I interferon,92,2,0.0003530398328694,1
+IFITM1,4,GO:0034341,BP,response to interferon-gamma,193,2,0.0014518644989972,1
+IFITM1,13,GO:0035455,BP,response to interferon-alpha,20,1,0.0056760295170739,1
+IFITM1,18,GO:0046597,BP,negative regulation of viral entry into host cell,19,1,0.0067775381685481,1
+IFITM1,19,GO:0035456,BP,response to interferon-beta,28,1,0.0074433506602485,1
+IFITM1,20,GO:1903901,BP,negative regulation of viral life cycle,23,1,0.0082696621958408,1
+IFITM1,31,GO:0046596,BP,regulation of viral entry into host cell,40,1,0.0131216964360174,1
+IFITM1,40,GO:0045071,BP,negative regulation of viral genome replication,53,1,0.0146696495855257,1
+IFITM1,45,GO:0052372,BP,modulation by symbiont of entry into host,47,1,0.0158510297848628,1
+IFITM1,54,GO:0019221,BP,cytokine-mediated signaling pathway,778,2,0.0203060179044647,1
+IFITM1,59,GO:0045087,BP,innate immune response,880,2,0.022628302031842,1
+IFITM1,66,GO:0045069,BP,regulation of viral genome replication,82,1,0.0248489170038758,1
+IFITM1,68,GO:0045669,BP,positive regulation of osteoblast differentiation,66,1,0.0248973193455838,1
+IFITM1,70,GO:0050776,BP,regulation of immune response,863,2,0.0258793847076465,1
+IFITM1,72,GO:0048525,BP,negative regulation of viral process,87,1,0.0267536326553407,1
+IFITM1,82,GO:0098542,BP,defense response to other organism,1079,2,0.0326364544455435,1
+IFITM1,84,GO:0016032,BP,viral process,928,2,0.0338124713736902,1
+IFITM1,89,GO:0044403,BP,biological process involved in symbiotic interaction,983,2,0.0366895575099334,1
+IFITM1,91,GO:0019079,BP,viral genome replication,125,1,0.0381115944300338,1
+IFITM1,95,GO:0071345,BP,cellular response to cytokine stimulus,1073,2,0.0392673896514491,1
+IFITM1,98,GO:0046718,BP,viral entry into host cell,136,1,0.044556622341542,1
+IFITM1,101,GO:1903900,BP,regulation of viral life cycle,146,1,0.0450374663950664,1
+IFITM1,103,GO:0002252,BP,immune effector process,1170,2,0.0452201697584939,1
+IFITM1,104,GO:0034097,BP,response to cytokine,1159,2,0.04530439294097,1
+IFITM1,108,GO:0044409,BP,entry into host,149,1,0.0493509046414672,1
+SHANK2,5,GO:0030160,MF,synaptic receptor adaptor activity,4,1,0.002813538261191,1
+SHANK2,9,GO:0005883,CC,neurofilament,8,1,0.0041256279716702,1
+SHANK2,10,GO:0051124,BP,synaptic growth at neuromuscular junction,9,1,0.0049967530149837,1
+SHANK2,21,GO:0035331,BP,negative regulation of hippo signaling,13,1,0.0083087652013274,1
+SHANK2,23,GO:0097107,BP,postsynaptic density assembly,18,1,0.0102567987071857,1
+SHANK2,25,GO:0035255,MF,ionotropic glutamate receptor binding,22,1,0.0108356375231238,1
+SHANK2,26,GO:0035330,BP,regulation of hippo signaling,19,1,0.0109740810758642,1
+SHANK2,28,GO:2000311,BP,regulation of AMPA receptor activity,25,1,0.011571378542212,1
+SHANK2,29,GO:0098698,BP,postsynaptic specialization assembly,21,1,0.0119772045541428,1
+SHANK2,32,GO:0071625,BP,vocalization behavior,20,1,0.013239244269932,1
+SHANK2,34,GO:0051968,BP,"positive regulation of synaptic transmission, glutamatergic",30,1,0.0136199086835919,1
+SHANK2,39,GO:1904861,BP,excitatory synapse assembly,26,1,0.0145959046692489,1
+SHANK2,41,GO:0097106,BP,postsynaptic density organization,29,1,0.0146834039970397,1
+SHANK2,42,GO:0060292,BP,long-term synaptic depression,30,1,0.0148516328978889,1
+SHANK2,43,GO:0048854,BP,brain morphogenesis,35,1,0.0155464682611787,1
+SHANK2,44,GO:0099084,BP,postsynaptic specialization organization,31,1,0.0156383117337485,1
+SHANK2,47,GO:0099068,BP,postsynapse assembly,30,1,0.0163753149940555,1
+SHANK2,48,GO:2000463,BP,positive regulation of excitatory postsynaptic potential,27,1,0.0168161040899216,1
+SHANK2,49,GO:0001917,CC,photoreceptor inner segment,59,1,0.0176610599248761,1
+SHANK2,50,GO:0060999,BP,positive regulation of dendritic spine development,40,1,0.0182837289439491,1
+SHANK2,51,GO:0035254,MF,glutamate receptor binding,40,1,0.0182882010666175,1
+SHANK2,52,GO:0030159,MF,signaling receptor complex adaptor activity,43,1,0.0186060252621727,1
+SHANK2,53,GO:0031526,CC,brush border membrane,59,1,0.0197520844488587,1
+SHANK2,55,GO:0098797,CC,plasma membrane protein complex,566,2,0.0203440302522026,1
+SHANK2,57,GO:0007528,BP,neuromuscular junction development,47,1,0.0216556065682019,1
+SHANK2,58,GO:0035329,BP,hippo signaling,45,1,0.0217745701818686,1
+SHANK2,60,GO:0008328,CC,ionotropic glutamate receptor complex,47,1,0.0232687349205707,1
+SHANK2,62,GO:0098815,BP,modulation of excitatory postsynaptic potential,44,1,0.0236155639626897,1
+SHANK2,63,GO:0098878,CC,neurotransmitter receptor complex,49,1,0.0238045279263665,1
+SHANK2,64,GO:0060170,CC,ciliary membrane,72,1,0.0240952993484932,1
+SHANK2,67,GO:0035176,BP,social behavior,50,1,0.0248714031055112,1
+SHANK2,69,GO:0051703,BP,biological process involved in intraspecies interaction between organisms,52,1,0.025314263258021,1
+SHANK2,73,GO:0001750,CC,photoreceptor outer segment,87,1,0.0270093917893242,1
+SHANK2,74,GO:0050805,BP,negative regulation of synaptic transmission,65,1,0.0274554173698257,1
+SHANK2,76,GO:0060998,BP,regulation of dendritic spine development,57,1,0.0281018264116207,1
+SHANK2,77,GO:0035591,MF,signaling adaptor activity,70,1,0.0292683865427669,1
+SHANK2,78,GO:0060997,BP,dendritic spine morphogenesis,58,1,0.0296302022776407,1
+SHANK2,80,GO:0051966,BP,"regulation of synaptic transmission, glutamatergic",69,1,0.0313791948002236,1
+SHANK2,86,GO:0099601,BP,regulation of neurotransmitter receptor activity,79,1,0.0351952291004094,1
+SHANK2,87,GO:0097733,CC,photoreceptor cell cilium,113,1,0.0357090680219926,1
+SHANK2,88,GO:0060291,BP,long-term synaptic potentiation,83,1,0.0358386549107956,1
+SHANK2,90,GO:0005903,CC,brush border,98,1,0.0377831683005425,1
+SHANK2,92,GO:0097061,BP,dendritic spine organization,80,1,0.0382875846766729,1
+SHANK2,93,GO:0097731,CC,9+0 non-motile cilium,124,1,0.0384044211212164,1
+SHANK2,94,GO:0005882,CC,intermediate filament,195,1,0.0389553566436525,1
+SHANK2,96,GO:0035249,BP,"synaptic transmission, glutamatergic",90,1,0.0403155184358911,1
+SHANK2,97,GO:0106027,BP,neuron projection organization,89,1,0.0404761595066647,1
+SHANK2,99,GO:0060079,BP,excitatory postsynaptic potential,100,1,0.044575444855986,1
+SHANK2,102,GO:0060996,BP,dendritic spine development,94,1,0.0452065768688116,1
+SHANK2,105,GO:0099565,BP,"chemical synaptic transmission, postsynaptic",105,1,0.0458593546316572,1
+SHANK2,106,GO:0097730,CC,non-motile cilium,157,1,0.0468078573388944,1
+SHANK2,107,GO:0030534,BP,adult behavior,115,1,0.0485910362241058,1
+HLA-C,1,GO:0060337,BP,type I interferon signaling pathway,86,2,0.0003114251306399,1
+HLA-C,2,GO:0071357,BP,cellular response to type I interferon,87,2,0.0003153968459399,1
+HLA-C,3,GO:0034340,BP,response to type I interferon,92,2,0.0003530398328694,1
+HLA-C,4,GO:0034341,BP,response to interferon-gamma,193,2,0.0014518644989972,1
+HLA-C,11,GO:0002484,BP,antigen processing and presentation of endogenous peptide antigen via MHC class I via ER pathway,8,1,0.0056558502939707,1
+HLA-C,12,GO:0002486,BP,"antigen processing and presentation of endogenous peptide antigen via MHC class I via ER pathway, TAP-independent",8,1,0.0056558502939707,1
+HLA-C,14,GO:0042612,CC,MHC class I protein complex,9,1,0.0060089489502516,1
+HLA-C,15,GO:0002480,BP,"antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-independent",9,1,0.0062023446183581,1
+HLA-C,17,GO:0046977,MF,TAP binding,8,1,0.0066889750913499,1
+HLA-C,24,GO:0019885,BP,antigen processing and presentation of endogenous peptide antigen via MHC class I,17,1,0.0106436245602664,1
+HLA-C,27,GO:0002483,BP,antigen processing and presentation of endogenous peptide antigen,19,1,0.0114182637513485,1
+HLA-C,30,GO:0019883,BP,antigen processing and presentation of endogenous antigen,26,1,0.0127194508467279,1
+HLA-C,33,GO:0042611,CC,MHC protein complex,23,1,0.0134812034080373,1
+HLA-C,35,GO:0042605,MF,peptide antigen binding,24,1,0.0139325357596714,1
+HLA-C,36,GO:0071556,CC,integral component of lumenal side of endoplasmic reticulum membrane,27,1,0.0139598467039665,1
+HLA-C,37,GO:0098553,CC,lumenal side of endoplasmic reticulum membrane,27,1,0.0139598467039665,1
+HLA-C,46,GO:0098576,CC,lumenal side of membrane,34,1,0.0162185091506524,1
+HLA-C,54,GO:0019221,BP,cytokine-mediated signaling pathway,778,2,0.0203060179044647,1
+HLA-C,55,GO:0098797,CC,plasma membrane protein complex,566,2,0.0203440302522026,1
+HLA-C,56,GO:0003823,MF,antigen binding,54,1,0.0206656700481068,1
+HLA-C,59,GO:0045087,BP,innate immune response,880,2,0.022628302031842,1
+HLA-C,61,GO:0012507,CC,ER to Golgi transport vesicle membrane,59,1,0.0236155000535217,1
+HLA-C,65,GO:0002479,BP,"antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent",75,1,0.0247156725956677,1
+HLA-C,70,GO:0050776,BP,regulation of immune response,863,2,0.0258793847076465,1
+HLA-C,71,GO:0042590,BP,antigen processing and presentation of exogenous peptide antigen via MHC class I,80,1,0.0260305665735523,1
+HLA-C,75,GO:0030670,CC,phagocytic vesicle membrane,75,1,0.0279587560265656,1
+HLA-C,79,GO:0055038,CC,recycling endosome membrane,85,1,0.0306229839263887,1
+HLA-C,81,GO:0002474,BP,antigen processing and presentation of peptide antigen via MHC class I,99,1,0.0313943342264516,1
+HLA-C,82,GO:0098542,BP,defense response to other organism,1079,2,0.0326364544455435,1
+HLA-C,83,GO:0030134,CC,COPII-coated ER to Golgi transport vesicle,91,1,0.0329580073542316,1
+HLA-C,84,GO:0016032,BP,viral process,928,2,0.0338124713736902,1
+HLA-C,85,GO:0060333,BP,interferon-gamma-mediated signaling pathway,89,1,0.0342735904007277,1
+HLA-C,89,GO:0044403,BP,biological process involved in symbiotic interaction,983,2,0.0366895575099334,1
+HLA-C,95,GO:0071345,BP,cellular response to cytokine stimulus,1073,2,0.0392673896514491,1
+HLA-C,100,GO:0045335,CC,phagocytic vesicle,134,1,0.0448289369752959,1
+HLA-C,103,GO:0002252,BP,immune effector process,1170,2,0.0452201697584939,1
+HLA-C,104,GO:0034097,BP,response to cytokine,1159,2,0.04530439294097,1
+PARP12,6,GO:0140289,BP,protein mono-ADP-ribosylation,12,1,0.0029083671678878,1
+PARP12,7,GO:0070213,BP,protein auto-ADP-ribosylation,11,1,0.0029238479539899,1
+PARP12,8,GO:1990404,MF,protein ADP-ribosylase activity,16,1,0.0039274289339403,1
+PARP12,16,GO:0003950,MF,NAD+ ADP-ribosyltransferase activity,24,1,0.006241616308969,1
+PARP12,22,GO:0006471,BP,protein ADP-ribosylation,34,1,0.0086915133092449,1
+PARP12,38,GO:0016763,MF,"transferase activity, transferring pentosyl groups",50,1,0.0141324373700314,1
